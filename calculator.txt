@@ -1,0 +1,4 @@
+algorithm 
+
+// create a empty array to store number to be added
+// 
